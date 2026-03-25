@@ -3,21 +3,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&width=600&height=60&lines=Backend+Developer" alt="Typing SVG" />
   </a>
 </p>
-
-<h3 align="center">Backend Developer | 김민준 </h3>
-
-### <p align="center">My Used stack</p>
-<p align="center">
-<img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/-node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/-Springboot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-</p>
-
-<div align=center>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MJK-One)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJK-One&layout=compact&theme=github_dark&hide_border=true" />
   &nbsp;
